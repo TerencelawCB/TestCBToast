@@ -1,16 +1,7 @@
-[
-    {
-        "Email":  "travis.wu@curriebrown.com",
-        "Week":  "202246",
-        "WeekEnding":  "19-Nov-22",
-        "Draft":  "8",
-        "Submitted":  "6"
-    },
-    {
-        "Email":  "Terence.Law@curriebrown.com",
-        "Week":  "202288",
-        "WeekEnding":  "9-Dec-22",
-        "Draft":  "28",
-        "Submitted":  "6"
-    }
-]
+{
+    "Email":  "travis.wu@curriebrown.com",
+    "Week":  "202246",
+    "WeekEnding":  "19-Nov-22",
+    "Draft":  "8",
+    "Submitted":  "6"
+}
