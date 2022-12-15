@@ -1,7 +1,205 @@
-{
-    "Employee (T)":  "",
-    "Email":  "",
-    "Timesheet week":  "",
-    "Date to":  "",
-    "Missing hours":  ""
-}
+[
+    {
+        "Employee (T)":  "Jonathan Graziano",
+        "Email":  "jonathan.graziano@curriebrown.com",
+        "Timesheet week":  "202248",
+        "Date to":  "12/3/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Jonathan Graziano",
+        "Email":  "jonathan.graziano@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Warren Youngren",
+        "Email":  "warren.youngren@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Neil Martin",
+        "Email":  "neil.martin@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Graham Morrison",
+        "Email":  "graham.morrison@curriebrown.com",
+        "Timesheet week":  "202248",
+        "Date to":  "12/3/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Graham Morrison",
+        "Email":  "graham.morrison@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Janette Tsang",
+        "Email":  "janette.tsang@curriebrown.com",
+        "Timesheet week":  "202248",
+        "Date to":  "12/3/2022 12:00:00 AM",
+        "Missing hours":  "15"
+    },
+    {
+        "Employee (T)":  "Janette Tsang",
+        "Email":  "janette.tsang@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Emila Mak",
+        "Email":  "emila.mak@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Karen Ng",
+        "Email":  "karen.ng@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Connie Tai",
+        "Email":  "connie.tai@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Matt Pang",
+        "Email":  "matt.pang@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Kathy Tse",
+        "Email":  "kathy.tse@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Matthew Yuen",
+        "Email":  "matthew.yuen@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Henrietta Lo",
+        "Email":  "henrietta.lo@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Tom Tong",
+        "Email":  "tom.tong@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Leon Au Yeung",
+        "Email":  "leon.auyeung@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Michael Yu",
+        "Email":  "michael.yu@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Andrew Morrison",
+        "Email":  "andrew.morrison@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Andy Yik",
+        "Email":  "andy.yik@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Clement Chung",
+        "Email":  "clement.chung@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Matthew Fu",
+        "Email":  "matthew.fu@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Martin Lam",
+        "Email":  "martin.lam@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Helena Tse",
+        "Email":  "helena.tse@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Kenneth Chan",
+        "Email":  "kenneth.chan@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Maggie Tai",
+        "Email":  "maggie.tai@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Joshua Woodley",
+        "Email":  "joshua.woodley@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Kenton Siu",
+        "Email":  "kenton.siu@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    },
+    {
+        "Employee (T)":  "Rico Wah",
+        "Email":  "rico.wah@curriebrown.com",
+        "Timesheet week":  "202249",
+        "Date to":  "12/10/2022 12:00:00 AM",
+        "Missing hours":  "37.5"
+    }
+]
