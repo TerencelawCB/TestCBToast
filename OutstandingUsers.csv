@@ -1,0 +1,47 @@
+#TYPE System.Management.Automation.PSCustomObject
+"client","GB"
+"user_id","1512427"
+"language","EN"
+"Region like",""
+"Employee legal entity like",""
+"r1resource_id_type","1"
+"r1resource_id_src","3"
+"r1resource_id_from",
+"r1resource_id_fromCol",""
+"r1resource_id_toCol",""
+"r1resource_id_to",
+"Employee business region like","HONGK"
+"r2resource_id_type","1"
+"r2resource_id_src","3"
+"r2resource_id_from",
+"r2resource_id_fromCol",""
+"r2resource_id_toCol",""
+"r2resource_id_to",
+"Employee operations unit like",""
+"r3resource_id_type","1"
+"r3resource_id_src","3"
+"r3resource_id_from",
+"r3resource_id_fromCol",""
+"r3resource_id_toCol",""
+"r3resource_id_to",
+"Employee cost centre like",""
+"r4resource_id_type","1"
+"r4resource_id_src","3"
+"r4resource_id_from",
+"r4resource_id_fromCol",""
+"r4resource_id_toCol",""
+"r4resource_id_to",
+"Employee like",""
+"Timesheet week like","0"
+"Timesheet week between (>=)","202150"
+"Timesheet week between (<=)","202249"
+"Timesheet required like","YES"
+"r5resource_id_type","1"
+"r5resource_id_src","3"
+"r5resource_id_from",
+"r5resource_id_fromCol",""
+"r5resource_id_toCol",""
+"r5resource_id_to",
+"Last working day greater than or equal to","12/13/2022 12:00:00 AM"
+"Trans.date less than or equal to","12/13/2022 12:00:00 AM"
+"Company like","GB"

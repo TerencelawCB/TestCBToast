@@ -25,7 +25,7 @@
     },
     {
         "client":  "r1resource_id_from",
-        "GB":  null
+        "GB":  ""
     },
     {
         "client":  "r1resource_id_fromCol",
@@ -37,7 +37,7 @@
     },
     {
         "client":  "r1resource_id_to",
-        "GB":  null
+        "GB":  ""
     },
     {
         "client":  "Employee business region like",
@@ -53,7 +53,7 @@
     },
     {
         "client":  "r2resource_id_from",
-        "GB":  null
+        "GB":  ""
     },
     {
         "client":  "r2resource_id_fromCol",
@@ -65,7 +65,7 @@
     },
     {
         "client":  "r2resource_id_to",
-        "GB":  null
+        "GB":  ""
     },
     {
         "client":  "Employee operations unit like",
@@ -81,7 +81,7 @@
     },
     {
         "client":  "r3resource_id_from",
-        "GB":  null
+        "GB":  ""
     },
     {
         "client":  "r3resource_id_fromCol",
@@ -93,7 +93,7 @@
     },
     {
         "client":  "r3resource_id_to",
-        "GB":  null
+        "GB":  ""
     },
     {
         "client":  "Employee cost centre like",
@@ -109,7 +109,7 @@
     },
     {
         "client":  "r4resource_id_from",
-        "GB":  null
+        "GB":  ""
     },
     {
         "client":  "r4resource_id_fromCol",
@@ -121,7 +121,7 @@
     },
     {
         "client":  "r4resource_id_to",
-        "GB":  null
+        "GB":  ""
     },
     {
         "client":  "Employee like",
@@ -129,15 +129,15 @@
     },
     {
         "client":  "Timesheet week like",
-        "GB":  0
+        "GB":  "0"
     },
     {
         "client":  "Timesheet week between (\u003e=)",
-        "GB":  202150
+        "GB":  "202150"
     },
     {
         "client":  "Timesheet week between (\u003c=)",
-        "GB":  202249
+        "GB":  "202249"
     },
     {
         "client":  "Timesheet required like",
@@ -153,7 +153,7 @@
     },
     {
         "client":  "r5resource_id_from",
-        "GB":  null
+        "GB":  ""
     },
     {
         "client":  "r5resource_id_fromCol",
@@ -165,15 +165,15 @@
     },
     {
         "client":  "r5resource_id_to",
-        "GB":  null
+        "GB":  ""
     },
     {
         "client":  "Last working day greater than or equal to",
-        "GB":  "\/Date(1670860800000)\/"
+        "GB":  "12/13/2022 12:00:00 AM"
     },
     {
         "client":  "Trans.date less than or equal to",
-        "GB":  "\/Date(1670860800000)\/"
+        "GB":  "12/13/2022 12:00:00 AM"
     },
     {
         "client":  "Company like",
