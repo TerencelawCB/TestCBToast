@@ -1,0 +1,205 @@
+[
+    {
+        "Employee":  "Jonathan Graziano",
+        "username":  "grazianj",
+        "Week":  "202248",
+        "WeekEnding":  "03-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Jonathan Graziano",
+        "username":  "grazianj",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Warren Youngren",
+        "username":  "warren.youngren",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Neil Martin",
+        "username":  "neil.martin",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Graham Morrison",
+        "username":  "graham.morrison",
+        "Week":  "202248",
+        "WeekEnding":  "03-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Graham Morrison",
+        "username":  "graham.morrison",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Janette Tsang",
+        "username":  "Janette.Tsang",
+        "Week":  "202248",
+        "WeekEnding":  "03-Dec-2022",
+        "Missing":  "15"
+    },
+    {
+        "Employee":  "Janette Tsang",
+        "username":  "Janette.Tsang",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Emila Mak",
+        "username":  "Emila.Mak",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Karen Ng",
+        "username":  "ngk3",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Connie Tai",
+        "username":  "connie.tai",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Matt Pang",
+        "username":  "Matt.Pang",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Kathy Tse",
+        "username":  "kathy.tse",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Matthew Yuen",
+        "username":  "yuenm",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Henrietta Lo",
+        "username":  "henrietta.lo",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Tom Tong",
+        "username":  "Tom.Tong",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Leon Au Yeung",
+        "username":  "leon.auyeung",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Michael Yu",
+        "username":  "yum",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Andrew Morrison",
+        "username":  "andrew.morrison",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Andy Yik",
+        "username":  "yika",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Clement Chung",
+        "username":  "Clement.Chung",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Matthew Fu",
+        "username":  "matthew.fu",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Martin Lam",
+        "username":  "martin.lam",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Helena Tse",
+        "username":  "helena.tse",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Kenneth Chan",
+        "username":  "kenneth.chan",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Maggie Tai",
+        "username":  "maggie.tai",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Joshua Woodley",
+        "username":  "joshua.woodley",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Kenton Siu",
+        "username":  "siuk",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    },
+    {
+        "Employee":  "Rico Wah",
+        "username":  "wahr",
+        "Week":  "202249",
+        "WeekEnding":  "10-Dec-2022",
+        "Missing":  "37.5"
+    }
+]
